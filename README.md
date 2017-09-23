@@ -2,7 +2,7 @@
 
 When Submitting to Mater, make sure the name has the following sintax
 
-"name of the project" "Version of the engine" ("state""Numeric deploy version" x "submit number[Using 3 digits minimun]")
+"name of the project" "Version of the compiler" ("state""Numeric deploy version" x "submit number[Using 3 digits minimun]")
 
 Example:
 
