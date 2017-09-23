@@ -1,0 +1,3 @@
+/Volumes/NINTENDO/TimeShatter 4.17/Source/TimeShatter/TimeShatter.Build.cs
+/Volumes/NINTENDO/TimeShatter 4.17/Source/TimeShatter.Target.cs
+/Volumes/NINTENDO/TimeShatter 4.17/Source/TimeShatterEditor.Target.cs

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TimeShatter.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{085D24D5-2ED6-484C-BA37-9478F402D275}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TimeShatter.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TimeShatterEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9853AF4A-3C76-4750-B3B4-927C3E59A088}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TimeShatter">
+			<UniqueIdentifier>{27CB60C6-5C28-4DE2-B4A5-93B9223EE04D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TimeShatter\TimeShatter.Build.cs">
+			<Filter>Source\TimeShatter</Filter>
+		</None >
+		<ClInclude Include="..\..\Source\TimeShatter\TimeShatter.h">
+			<Filter>Source\TimeShatter</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TimeShatter\TimeShatter.cpp">
+			<Filter>Source\TimeShatter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TimeShatter\Default_C_Program.h">
+			<Filter>Source\TimeShatter</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TimeShatter\Default_C_Program.cpp">
+			<Filter>Source\TimeShatter</Filter>
+		</ClCompile >
+	</ItemGroup>
+</Project>

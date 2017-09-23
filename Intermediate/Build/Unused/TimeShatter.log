@@ -1,0 +1,4 @@
+﻿  Performing full C++ include scan (building a new target)
+  Creating makefile for TimeShatterEditor (no existing makefile)
+EXEC : error : TimeShatterEditor requires the 'RunebergVRPlugin' plugin. Install it and try again, or remove it from the required plugin list.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: El comando ""C:\Program Files\Epic Games\UE_4.17\Engine\Build\BatchFiles\Build.bat" TimeShatterEditor Win64 Development "D:\TimeShatter 4.17\TimeShatter.uproject" -waitmutex" salió con el código 5. Compruebe que tiene derechos suficientes para ejecutar este comando.
